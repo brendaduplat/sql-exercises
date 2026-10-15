@@ -1,7 +1,6 @@
 # SQL Exercises
 
 Introductory SQL practice using SQLite on a small, fictional banking database.
-Built while studying, as part of my transition into data engineering.
 
 ## Database
 
